@@ -12,7 +12,6 @@ function setup() {
   text("Hello, World!", 100, 100);
 }
 ```
-
-- [ ]Wake up
-- [ ]Go to class
-- [ ]Do homework
+- [ ] Wake up
+- [ ] Go to class
+- [ ] Do homework
