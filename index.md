@@ -11,3 +11,8 @@ function setup() {
   fill(0);
   text("Hello, World!", 100, 100);
 }
+```
+
+- [ ]Wake up
+- [ ]Go to class
+- [ ]Do homework
